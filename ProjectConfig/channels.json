@@ -759,5 +759,16 @@
                 ]
             }
         }
+    },
+    "856296302082129946": {
+        "name": "general",
+        "projectBotHandlers": {
+            "default": "0-CITIZEN",
+            "stringTriggers": {
+                "0-CITIZEN": [
+                    "galactican"
+                ]
+            }
+        }
     }
 }
